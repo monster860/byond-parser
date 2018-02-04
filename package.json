@@ -14,7 +14,7 @@
     "byond"
   ],
   "author": "monster860",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/monster860/byond-parser/issues"
   },
