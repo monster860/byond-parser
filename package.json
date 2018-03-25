@@ -1,6 +1,6 @@
 {
   "name": "byond-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses BYOND",
   "main": "index.js",
   "scripts": {
